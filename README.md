@@ -17,3 +17,6 @@ Hello world. This is the repository for my website.
 # 3rd step
   Implemented JEKYLL by using command "jekyll new . --force"<br>
   Fixed issue of creating website locally by using command "bundle add webrick"
+
+# 4th step
+Removed "_site", ".sass-cache", ".jekyll-cache", ".jekyll-metadata" and "vendor" from the ".gitignore" file
