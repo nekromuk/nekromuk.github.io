@@ -11,5 +11,6 @@ Der Geruch der Kiefernnadeln zu Mitternacht.<br>
 Die Textur des Panzertapes.<br>
 Das bernsteinfarbene Licht, das aus dem Fenster deines Schlafzimmers fällt.<br />
 
-Und unter dem Baum an dem ich dir ewige Treue geschworen habe, stehe ich und weiß, dass ich heute Nacht lächelnd einschlafen werde –<br>
+Und unter dem Baum an dem ich dir ewige Treue geschworen habe, stehe ich und weiß,<br>
+dass ich heute Nacht lächelnd einschlafen werde –<br>
 denn wenn die Sonne morgen aufgeht, wird dein Herz wieder mir gehören.
