@@ -17,14 +17,4 @@ Hello world. This is the repository for my website.
   Cloned the repository locally via VS Code by using command `Clone`and selecting a local folder.<br>
   Implemented JEKYLL by using command `jekyll new . --force`<br>
   Fixed issue of creating website locally by using command `bundle add webrick`
-
-### 4th step
-Removed<br>
-```
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-```
-from the GITIGNORE file
+  
