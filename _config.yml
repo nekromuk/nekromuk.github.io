@@ -21,7 +21,7 @@
 title: Nekromuk
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Das bin nicht ich.
+  Nichts was du hier siehst ist echt.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nekromuk
